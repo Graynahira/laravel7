@@ -1,0 +1,10 @@
+cd C:/Users/Aleksandr/Homestead
+vagrant up
+vagrant ssh
+
+cd Laravel_Projects/Project1/
+
+
+
+http://homestead.testsite
+
